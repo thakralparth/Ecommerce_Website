@@ -17,7 +17,7 @@ This project showcases a microservices-based e-commerce platform developed with 
   Supported multiple payment options, ensured secure transactions, and provided payment receipts to users.
 
 - **User Management Service**  
-  Implemented comprehensive user management functionalities including registration, login,
+  Implemented comprehensive user management functionalities including registration and login.
 
 - **Optimized API Performance**  
   Optimized API response times from ~500 ms to ~50 ms by leveraging Redis Cache for static data caching in Product Service.
